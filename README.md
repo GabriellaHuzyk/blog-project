@@ -24,7 +24,13 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+This project is a simple blog that was created with the aim of applying and practicing the following knowledge:
+- Docker container creation;
+- Data manipulation with Prisma;
+- Error handling with Nest interceptors;
+- Swagger application.
+
+*Possibly there will be updates.
 
 ## Installation
 
