@@ -1,0 +1,7 @@
+{
+  "singleQuote": true,
+  "trailingComma": "all",
+  "semi": true,
+  "prinWidth": 80,
+  "arrowParens": "avoid"
+}
